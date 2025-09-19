@@ -1,0 +1,18 @@
+.App {
+    padding: 20px;
+    background: #f5f5f5;
+    min-height: 100vh;
+  }
+  
+  .heading {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+  }
+  

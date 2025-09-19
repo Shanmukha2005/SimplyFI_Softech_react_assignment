@@ -1,0 +1,14 @@
+.user-card {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 10px;
+    width: 200px;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease;
+  }
+  
+  .user-card:hover {
+    transform: scale(1.05);
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+  }
+  
